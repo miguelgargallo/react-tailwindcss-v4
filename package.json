@@ -1,5 +1,17 @@
 {
   "name": "react-tailwindcss-v4",
+  "author": "Pencil Works, LLC.",
+  "description": "React with TailwindCSS v4",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "vite"
+  ],
+  "license": "Pylar AI Creative ML Free License",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelgargallo/react-tailwindcss-v4"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
