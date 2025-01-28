@@ -1,6 +1,6 @@
 # React TailwindCSS v4
 
-![React TailwindCSS v4 Banner](./banner.jpg)
+![React TailwindCSS v4 Banner](https://raw.githubusercontent.com/miguelgargallo/react-tailwindcss-v4/refs/heads/main/public/banner.jpg)
 
 A modern React application utilizing **TailwindCSS v4** for styling and **Vite** as the build tool. This setup provides a fast and efficient development workflow with seamless integration of Tailwind CSS, enabling developers to create responsive web applications quickly.
 
