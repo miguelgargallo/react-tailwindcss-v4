@@ -1,6 +1,6 @@
 # React TailwindCSS v4
 
-![React TailwindCSS v4 Banner](https://file%2B.vscode-resource.vscode-cdn.net/Users/mgar/Code/code/pokemon/react-tailwindcss-v4/public/Email%20Banner%401x.jpg?version%3D1738079558822)
+![React TailwindCSS v4 Banner](./banner.jpg)
 
 A modern React application utilizing **TailwindCSS v4** for styling and **Vite** as the build tool. This setup provides a fast and efficient development workflow with seamless integration of Tailwind CSS, enabling developers to create responsive web applications quickly.
 
