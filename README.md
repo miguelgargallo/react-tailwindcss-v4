@@ -19,4 +19,4 @@ Feel free to fork this project and contribute!
 
 ---
 
-Respect the License. This project is open-source and available under the Pylar AI Creative ML Free License at [./License](./License) file.
+Respect the License. This project is open-source and available under the Pylar AI Creative ML Free License at [License](./License.md) file.
