@@ -1,5 +1,6 @@
 {
   "name": "react-tailwindcss-v4",
+  "version": "0.0.1",
   "author": "Pencil Works, LLC.",
   "description": "React with TailwindCSS v4",
   "keywords": [
@@ -13,7 +14,6 @@
     "url": "https://github.com/miguelgargallo/react-tailwindcss-v4"
   },
   "private": false,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
