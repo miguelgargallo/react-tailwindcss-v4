@@ -4,6 +4,11 @@
 
 A modern React application utilizing **TailwindCSS v4** for styling and **Vite** as the build tool. This setup provides a fast and efficient development workflow with seamless integration of Tailwind CSS, enabling developers to create responsive web applications quickly.
 
+
+## 🌐 [The Guide to add TailwindCSS 4 with React](https://medium.com/@pencilllc/the-guide-to-add-tailwindcss-4-with-react-424ada2df179) ←
+
+![The Guide to add TailwindCSS 4 with React](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Yt9L4MFqaN9SIojS.jpeg)
+
 **Features:**
 - Built with React (version 18)
 - Styled using TailwindCSS v4
